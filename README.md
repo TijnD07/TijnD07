@@ -1,16 +1,77 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**TijnD07/TijnD07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Tijn Duivenvoorden](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:39D353&height=210&section=header&text=Tijn%20Duivenvoorden&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Applied%20Data%20Science%20%26%20AI%20%E2%80%A2%20Builder%20%E2%80%A2%20Photographer&descSize=17&descAlignY=56)
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=760&lines=Turning+data+into+useful+tools;Building+with+Python%2C+Docker+%26+n8n;Running+a+Proxmox+homelab;Capturing+stories+through+photography)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Website](https://img.shields.io/badge/Website-tijnd.nl-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tijnd.nl/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tijn-duivenvoorden-94ab83330/)
+[![Photography](https://img.shields.io/badge/Photography-Portfolio-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://tijnd.nl/photography/)
+
+</div>
+
+## Hey, I'm Tijn 👋
+
+I'm an **Applied Data Science & AI student** from Zoetermeer, the Netherlands.
+
+- 🧠 Exploring data science, AI and useful automation
+- 🛠️ Building with Python, Docker, n8n and Nginx
+- 🏠 Running and improving my own Proxmox homelab
+- 📸 Photographing people, places and atmosphere
+- 🤝 Combining technical curiosity with hands-on team leadership
+
+> **Data tells the story. Systems make it useful. Photography captures what numbers miss.**
+
+## Tech I work with
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+## Featured projects
+
+| Project | What it does | Built around |
+|---|---|---|
+| [**Retail Team Portal**](https://github.com/TijnD07/Retail-Team-Portal) | A practical scan dashboard for retail branches. | Team workflows · Dashboard |
+| [**Home Media Stack**](https://github.com/TijnD07/Home-Media-Stack) | A Docker-based media server and storage stack for my homelab. | Docker · Media · Storage |
+| [**Video Machine**](https://github.com/TijnD07/Video-Machine) | An automated video workflow powered by n8n. | n8n · Automation · Video |
+
+## Beyond the code
+
+Outside tech, I spend a lot of time on photography. I like capturing people, places and everyday moments. I also use my homelab to try new things, break them, and figure out how they work.
+
+📷 [View my photography portfolio](https://tijnd.nl/photography/) · 🏠 [Explore my website](https://tijnd.nl/)
+
+## GitHub at a glance
+
+<div align="center">
+
+![Tijn's GitHub stats](https://github-readme-stats.vercel.app/api?username=TijnD07&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TijnD07&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+## Let's connect
+
+Have an idea, want to collaborate, or just want to talk about data, homelabs or photography?
+
+- 🌐 [tijnd.nl](https://tijnd.nl/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tijn-duivenvoorden-94ab83330/)
+- 📷 [Photography Instagram](https://www.instagram.com/tijn.photograph)
+- 📸 [Personal Instagram](https://www.instagram.com/tijnd07)
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:39D353,50:0969DA,100:0D1117&height=120&section=footer)
+
+</div>
