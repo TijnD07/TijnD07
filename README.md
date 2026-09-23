@@ -35,14 +35,6 @@ I'm an **Applied Data Science & AI student** from Zoetermeer, the Netherlands.
 
 </div>
 
-## Featured projects
-
-| Project | What it does | Built around |
-|---|---|---|
-| [**Retail Team Portal**](https://github.com/TijnD07/Retail-Team-Portal) | A practical scan dashboard for retail branches. | Team workflows · Dashboard |
-| [**Home Media Stack**](https://github.com/TijnD07/Home-Media-Stack) | A Docker-based media server and storage stack for my homelab. | Docker · Media · Storage |
-| [**Video Machine**](https://github.com/TijnD07/Video-Machine) | An automated video workflow powered by n8n. | n8n · Automation · Video |
-
 ## Beyond the code
 
 Outside tech, I spend a lot of time on photography. I like capturing people, places and everyday moments. I also use my homelab to try new things, break them, and figure out how they work.
