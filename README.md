@@ -53,9 +53,15 @@ Outside tech, I spend a lot of time on photography. I like capturing people, pla
 
 <div align="center">
 
-[![Tijn's GitHub stats](https://github-stats-extended.vercel.app/api?username=TijnD07)](https://github.com/stats-organization/github-stats-extended)
+<a href="https://github.com/TijnD07">
+  <img height="195" align="center"
+       src="https://github-stats-extended.vercel.app/api?username=TijnD07&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&show=prs_merged,reviews" />
+</a>
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TijnD07&layout=compact&theme=github_dark&hide_border=true)
+<a href="https://github.com/TijnD07">
+  <img height="195" align="center"
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=TijnD07&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=320" />
+</a>
 
 </div>
 
