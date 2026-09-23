@@ -1,6 +1,6 @@
 <div align="center">
 
-![Tijn Duivenvoorden](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:39D353&height=210&section=header&text=Tijn%20Duivenvoorden&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Applied%20Data%20Science%20%26%20AI%20%E2%80%A2%20Builder%20%E2%80%A2%20Photographer&descSize=17&descAlignY=56)
+![Tijn Duivenvoorden](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:39D353&height=210&section=header&text=Tijn%20Duivenvoorden&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Applied%20Data%20Science%20and%20AI%20%E2%80%A2%20Python%20%E2%80%A2%20Automation%20%E2%80%A2%20Photography&descSize=17&descAlignY=56)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=760&lines=Turning+data+into+useful+tools;Building+with+Python%2C+Docker+%26+n8n;Running+a+Proxmox+homelab;Capturing+stories+through+photography)](https://git.io/typing-svg)
 
