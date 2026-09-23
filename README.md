@@ -14,11 +14,11 @@
 
 I'm an **Applied Data Science & AI student** from Zoetermeer, the Netherlands.
 
-- 🧠 Exploring data science, AI and useful automation
-- 🛠️ Building with Python, Docker, n8n and Nginx
-- 🏠 Running and improving my own Proxmox homelab
-- 📸 Photographing people, places and atmosphere
-- 🤝 Combining technical curiosity with hands-on team leadership
+- 🧠 Studying Applied Data Science & AI
+- 🛠️ Building tools with Python, data and automation
+- 🏠 Running my own Proxmox homelab and self-hosted services
+- 📸 Shooting photography alongside tech projects
+- 🚀 Interested in turning ideas and data into things people can actually use
 
 ## Tech I work with
 
