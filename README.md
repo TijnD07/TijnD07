@@ -14,7 +14,7 @@
 
 I'm an **Applied Data Science & AI student** from Zoetermeer, the Netherlands.
 
-- 🧠 Studying Applied Data Science & AI
+- 🎓 Second-year Applied Data Science & AI student
 - 🛠️ Building tools with Python, data and automation
 - 🏠 Running my own Proxmox homelab and self-hosted services
 - 📸 Shooting photography alongside tech projects
@@ -32,6 +32,9 @@ I'm an **Applied Data Science & AI student** from Zoetermeer, the Netherlands.
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 </div>
 
