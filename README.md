@@ -20,8 +20,6 @@ I'm an **Applied Data Science & AI student** from Zoetermeer, the Netherlands.
 - 📸 Photographing people, places and atmosphere
 - 🤝 Combining technical curiosity with hands-on team leadership
 
-> **Data tells the story. Systems make it useful. Photography captures what numbers miss.**
-
 ## Tech I work with
 
 <div align="center">
