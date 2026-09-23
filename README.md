@@ -65,6 +65,16 @@ Outside tech, I spend a lot of time on photography. I like capturing people, pla
 
 </div>
 
+<div align="center">
+
+<img height="190"
+     src="https://github-stats-extended.vercel.app/api?username=TijnD07&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&include_all_commits=true&show=prs_merged,reviews" />
+
+<img height="190"
+     src="https://github-stats-extended.vercel.app/api/top-langs/?username=TijnD07&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=320" />
+
+</div>
+
 ## Let's connect
 
 Have an idea, want to collaborate, or just want to talk about data, homelabs or photography?
