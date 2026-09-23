@@ -14,13 +14,13 @@
 
 I'm an **Applied Data Science & AI student** from Zoetermeer, the Netherlands.
 
-- 🎓 Second-year Applied Data Science & AI student
+- 🎓 Second-year Applied Data Science & AI student at The Hague University of Applied Sciences
 - 🛠️ Building tools with Python, data and automation
 - 🏠 Running my own Proxmox homelab and self-hosted services
-- 📸 Shooting photography alongside tech projects
+- 📸 Building out my photography portfolio
 - 🚀 Interested in turning ideas and data into things people can actually use
 
-## Tech I work with
+## I work with
 
 <div align="center">
 
@@ -43,7 +43,7 @@ Outside tech, I spend a lot of time on photography. I like capturing people, pla
 
 📷 [View my photography portfolio](https://tijnd.nl/photography/) · 🏠 [Explore my website](https://tijnd.nl/)
 
-## GitHub at a glance
+## GitHub stats
 
 <div align="center">
 
